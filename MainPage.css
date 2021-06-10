@@ -473,7 +473,7 @@ h1 {
     .mobile-Slide {
         display: block;
         position: absolute;
-        top: 130%;
+        top: 134%;
         margin-left: 38%;  
         filter:opacity(0.8);
     }
@@ -504,7 +504,7 @@ h1 {
 
     .aboutImage {
         position: absolute;
-        top: 148%;
+        top: 149%;
         left: 30%;
         width: 65%;
         height: 35vh;

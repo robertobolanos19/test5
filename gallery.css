@@ -304,9 +304,9 @@ nav .mainMenu .closeMenu , .mobile-icons i {
     }
 
     .backToTop {
-        font-size: 14px;
+        font-size: 20px;
         position: absolute;
-        top: 250%;
+        top: 270%;
         padding-bottom: 15%;
         right: 5%;
         display: block;
