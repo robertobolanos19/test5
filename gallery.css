@@ -291,8 +291,7 @@ nav .mainMenu .closeMenu , .mobile-icons i {
     .GalleryContainer {
         width: 90%;
         height: 200vh;
-        margin-bottom:30%;
-        padding-bottom: 20%;
+        margin-bottom: 5%;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
@@ -304,11 +303,10 @@ nav .mainMenu .closeMenu , .mobile-icons i {
         background-color: blue;
     }
 
-
     .backToTop {
         font-size: 14px;
         position: absolute;
-        top: 235%;
+        top: 230%;
         padding-bottom: 15%;
         right: 5%;
         display: block;

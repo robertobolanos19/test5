@@ -473,7 +473,7 @@ h1 {
     .mobile-Slide {
         display: block;
         position: absolute;
-        top: 125%;
+        top: 120%;
         margin-left: 38%;  
         filter:opacity(0.8);
     }
@@ -513,7 +513,7 @@ h1 {
 
     .aboutBio {
         width: 84%;
-        margin: 30% auto 0 auto;
+        margin: 10% auto 0 auto;
         font-size: 18px;
         line-height: 1.5em;
     }
@@ -522,7 +522,7 @@ h1 {
         width: 50%;
         font-size: 14px;
         line-height: 2em; 
-        margin: 5% 0 70% 8%;
+        margin: 5% 0 30% 8%;
     }
     
     .skills h2 {
@@ -541,14 +541,12 @@ h1 {
 
     .contactLinks {
         width: 30%;
-        margin-top: 30%;
+        margin-top: 15%;
         margin-left: 8%;
-        margin-bottom: 60%;
     }
     
     .contactLinks li {
         list-style: none;
-        margin-bottom: 10%;
         border-bottom: 2px white solid;
     }
 
