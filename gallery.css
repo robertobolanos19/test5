@@ -292,7 +292,7 @@ nav .mainMenu .closeMenu , .mobile-icons i {
         width: 90%;
         height: 200vh;
         margin-bottom:30%;
-        padding-bottom: 30%;
+        padding-bottom: 20%;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
@@ -308,7 +308,7 @@ nav .mainMenu .closeMenu , .mobile-icons i {
     .backToTop {
         font-size: 14px;
         position: absolute;
-        top: 215%;
+        top: 235%;
         padding-bottom: 15%;
         right: 5%;
         display: block;
